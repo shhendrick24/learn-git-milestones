@@ -225,12 +225,12 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Step | Description | Completed
 --- | --- | ---
 2-1 | 1st Favorite emoji | 💁‍♀️
-2-2 | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/shhendrick24/learn-git-milestones/edit/main/README.md)
+2-2 | Link to `commit #1 from Github.com` | [commit #1 from Github.com](58f04e19d3485c5fd245c24c29586e3be4617051)
 2-3 | Link to markdown tables docs | [How to: Markdown tables](https://www.codecademy.com/resources/docs/markdown/tables)
 2-4 | What does `log` do? | used to view the commit history of a Git repo
 3-1 | 2nd Favorite emoji | 🤗
 3-2 | Link to `commit #2 from Github Desktop` | 
-4-1 | Full path to your working directory |
+4-1 | Full path to your working directory | 
 4-2 | Link to `commit #3 from CLI` |
 5-1 | Link to `first-website` github.com repo page |
 6-1 | Link to `first-website` github.io "project site" |
