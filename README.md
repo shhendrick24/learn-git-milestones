@@ -229,7 +229,7 @@ Step | Description | Completed
 2-3 | Link to markdown tables docs | [How to: Markdown tables](https://www.codecademy.com/resources/docs/markdown/tables)
 2-4 | What does `log` do? | used to view the commit history of a Git repo
 3-1 | 2nd Favorite emoji | 🤗
-3-2 | Link to `commit #2 from Github Desktop` | 
+3-2 | Link to `commit #2 from Github Desktop` | [commit #2 from GitHub Desktop](0b6f4e6b515ffc88b0bef3176188a41901b943ee)
 4-1 | Full path to your working directory | 
 4-2 | Link to `commit #3 from CLI` |
 5-1 | Link to `first-website` github.com repo page |
