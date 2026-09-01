@@ -231,9 +231,9 @@ Step | Description | Completed
 3-1 | 2nd Favorite emoji | 🤗
 3-2 | Link to `commit #2 from Github Desktop` | [commit #2 from GitHub Desktop](0b6f4e6b515ffc88b0bef3176188a41901b943ee)
 4-1 | Full path to your working directory | /Users/shannonhendrick/Documents/GitHub/learn-git-milestones
-4-2 | Link to `commit #3 from CLI` |
-5-1 | Link to `first-website` github.com repo page |
-6-1 | Link to `first-website` github.io "project site" |
+4-2 | Link to `commit #3 from CLI` | [commit #3 from CLI](4fd431503d68bffb2e58d67500cc0fa384193539)
+5-1 | Link to `first-website` github.com repo page | (https://github.com/shhendrick24/first-website?tab=readme-ov-file)
+6-1 | Link to `first-website` github.io "project site" | ( https://shhendrick24.github.io/learn-git-milestones/)
 
 
 
